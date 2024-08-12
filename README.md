@@ -1,6 +1,9 @@
 # flutter_esqueleto2
 
-A new Flutter project.
+TELA DE LOGIN E SENHA DECORADA. VEJA A FOTO ABAIXO:
+
+
+![WhatsApp Image 2024-08-11 at 23 16 01](https://github.com/user-attachments/assets/12f1d792-cbcb-4101-b17c-45ed607a9aae)
 
 ## Getting Started
 
